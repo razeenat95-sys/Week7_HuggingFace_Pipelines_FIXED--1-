@@ -1,0 +1,7 @@
+# Use Transformers 4.x because Transformers 5.x in the current environment does not expose
+# the classic summarization and translation pipeline task names used in this project.
+transformers==4.57.1
+torch
+pandas
+sentencepiece
+ipykernel

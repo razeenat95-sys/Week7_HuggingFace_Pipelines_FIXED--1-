@@ -1,0 +1,12 @@
+id,text,label,score,status
+1,"Artificial intelligence is becoming an important part of everyday life. Schools use digital tools to support learning, hospitals use computer systems to help organize information, and businesses use automation to answer common questions. These tools can save time, but they work best when people understand their limits and check important results.
+
+One growing area is the use of language models to process written information. A language model can summarize a long report, classify the tone of a review, translate a paragraph, or answer a question based on a passage. These abilities are useful when people need to understand large amounts of text quickly. However, a model may miss context, misunderstand an unusual phrase, or produce an answer that sounds confident but is incorrect.
+
+For students, AI tools can help explain difficult concepts and create short notes from reading material. Teachers can use them to prepare practice questions or identify topics that need more attention. AI should support learning rather than replace reading, discussion, and independent thinking. Students should verify facts and follow their institution's rules about using AI in assignments.
+
+Businesses also use language processing to review customer feedback. Sentiment analysis can label a message as positive, negative, or neutral. This can help a team notice common complaints and improve a service. Yet sentiment is not always simple. Sarcasm, local expressions, spelling mistakes, and mixed opinions can confuse an automated system. Human review remains valuable, especially when decisions affect customers.
+
+Translation systems can make information available to people who speak different languages. They are useful for general communication, but technical, legal, and medical text may require expert checking. A translated sentence can be grammatically correct while still changing an important detail. For this reason, users should compare translations with the original whenever accuracy matters.
+
+S",NEGATIVE,0.9288,generated
